@@ -117,7 +117,6 @@ body{
 }
 
 .react{
-    /* width: 100%; */
     font-weight: 500;
     padding: 16px;
     border-radius: 8px;
@@ -253,8 +252,7 @@ footer{
         width: 100%;
         height: auto;
         flex-direction: column;
-        margin: 20px;
-        height: auto;   
+        margin: 20px;  
     }
 
     .result{
